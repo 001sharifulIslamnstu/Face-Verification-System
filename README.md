@@ -24,5 +24,5 @@ Inference on webcam
 
 `python main.py`
 
-## Training pipeline
+
 
