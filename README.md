@@ -1,4 +1,4 @@
-# Face Recognition System
+# Face Verification System
 
 ## Face Detection
 
